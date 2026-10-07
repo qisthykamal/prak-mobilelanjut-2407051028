@@ -91,7 +91,7 @@ class _AssetsMediaPageState extends State<AssetsMediaPage> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text(
-                      'Audio Motivasi',
+                      'one of my favorite songs',
                       style: TextStyle(
                         fontFamily: 'Poppins',
                         fontSize: 18,
